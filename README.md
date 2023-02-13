@@ -11,4 +11,4 @@ If the format is right but the month does not have that date (example: 01/80/202
 
 Otherwise, It will display the month of the date entered.
 
-(example: input-- 02/10/2023 output--February)
+(example: input-- 02/10/2023. output--February)
